@@ -1,0 +1,33 @@
+_repo: The-Great-Impersonation_5815
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Oppenheim, E. Phillips (Edward Phillips)
+    aliases:
+    - Oppenheim, Edward Phillips
+    - Partridge, Anthony
+    birthdate: 1866
+    deathdate: 1946
+    gutenberg_agent_id: '594'
+    url: http://www.gutenberg.org/2009/agents/594
+    wikipedia: http://en.wikipedia.org/wiki/E._Phillips_Oppenheim
+description: This 1920 novel, a marvel of taut plotting, is regarded as among the
+  finest spy stories of all time. Just before World War I, a dissolute English nobleman
+  and a German secret agent, who happen to resemble each other exactly, meet by chance
+  in South Africa. The German decides to take the Englishman's place and return to
+  England in order to gain political power in conflict-filled Europe.
+gutenberg_bookshelf: Bestsellers, American, 1895-1923
+gutenberg_issued: '2006-04-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5815'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Spy stories'
+- GITenberg
+title: The Great Impersonation
+url: http://www.gutenberg.org/ebooks/5815
