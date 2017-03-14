@@ -1,5 +1,8 @@
 _repo: The-Great-Impersonation_5815
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Oppenheim, E. Phillips (Edward Phillips)
@@ -16,6 +19,8 @@ description: This 1920 novel, a marvel of taut plotting, is regarded as among th
   and a German secret agent, who happen to resemble each other exactly, meet by chance
   in South Africa. The German decides to take the Englishman's place and return to
   England in order to gain political power in conflict-filled Europe.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/5815#The-Great-Impersonation
 gutenberg_bookshelf: Bestsellers, American, 1895-1923
 gutenberg_issued: '2006-04-22'
 gutenberg_type: Text
