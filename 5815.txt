@@ -1356,7 +1356,7 @@ who has just returned from abroad--Sir Everard Dominey?"
 
 Dominey had risen to his feet a moment previously and now extended his
 hand. The Duchess, who was a tall, graceful woman, with masses of fair
-hair only faintly interspersed with gray, very fine brown eyes, the
+hair only faintly interspersed with grey, very fine brown eyes, the
 complexion of a girl, and, to quite her own confession, the manners of a
 kitchen maid, stared at him for a moment without any response.
 
@@ -8113,7 +8113,7 @@ anxious eyes. He smiled light-heartedly as he answered:
 allowed to play out my titanic struggle against Sir Everard without
 interruption."
 
-"I suppose the next important question to whether it is to be peace or
+"I suppose the next important question is to whether it is to be peace or
 war is, how did you play?" the Princess asked.
 
 "I surpassed myself," her husband replied, "but of course no ordinary
@@ -9342,7 +9342,7 @@ Seaman hitched his chair a little nearer.
 
 "In Ireland," he confided. "Sorry to desert you as I did, but you do not
 begin to count for us just yet. There was just a faint doubt as to what
-they were doing to do about internment. That is why I had to get the
+they were going to do about internment. That is why I had to get the
 Irish trip off my mind."
 
 "What has been decided?"
